@@ -1,0 +1,13 @@
+{
+	"name": "cozy-blog",
+	"version": "0.0.1",
+	"description": "An application to get you started with web app development and Cozy.",
+	"cozy-type": "static",
+	"cozy-displayName": "Static app example",
+	"icon-path": "main_icon.png",
+	"author": "lemelon",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mycozycloud/cozy-tutorial.git"
+	}
+}
